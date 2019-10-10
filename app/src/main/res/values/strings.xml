@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResistorAssignment</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO1</string>
+    <string name="bckgnd">bckgnd</string>
+    <string name="omega">omega</string>
+    <string name="tolerence">Tolerence</string>
+    <string name="resistance">Resistance</string>
+</resources>
